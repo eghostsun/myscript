@@ -6,7 +6,7 @@
 #########################
 yum -y update
 yum install -y kernel-devel
-yum install -y vim 
+yum install -y vim unzip
 yum install -y make gcc gcc-c++
 yum install -y m4 ncurses-devel
 
